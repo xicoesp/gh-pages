@@ -3,7 +3,7 @@
     <title>otaku-collector</title>
     <link href="https://otaku-collector.com/feed.xml" rel="self" />
     <link href="https://otaku-collector.com" />
-    <updated>2026-09-01T21:59:15+01:00</updated>
+    <updated>2026-09-01T22:02:42+01:00</updated>
     <author>
         <name>Xico</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://otaku-collector.com/ura-keiji-kyoji-ogata.html"/>
         <id>https://otaku-collector.com/ura-keiji-kyoji-ogata.html</id>
+        <media:content url="https://otaku-collector.com/media/posts/12/urakeiji_2.jpg" medium="image" />
             <category term="Ura Keiji"/>
             <category term="Manga Original Art"/>
             <category term="Kyoji Ogata"/>
@@ -23,11 +24,13 @@
         <updated>2026-08-31T22:22:59+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://otaku-collector.com/media/posts/12/urakeiji_2.jpg" alt="" />
                     These pages are the cover and side illustration of the second volume of Ura Keiji, a gekiga crime/action work of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://otaku-collector.com/media/posts/12/urakeiji_2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>These pages are the cover and side illustration of the second volume of Ura Keiji, a gekiga crime/action work of the mangaka Ura Keiji and writen by Yusuke Yoshida. Published by Hobunsha in 1981 after featured in Bessatsu Shūkan Manga TIMES, follows the path of the genre that was made popular by Takao Saito and Gōseki Kojima.</p>
 <p>This watercolor painted page, is a good example of a typical cover from the genre, with a main character image in the foreground, and then, the background is compose of a plain color, a basic image or a photograph.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
